@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/urdu_addition_counting_object_3_and_2_digits/precache-manifest.73beb9de935bcab3039cd0164879b447.js"
+  "/urdu_addition_counting_object_3_and_2_digits/precache-manifest.031c1b2a84bca509bdd741527b27245d.js"
 );
 
 workbox.clientsClaim();

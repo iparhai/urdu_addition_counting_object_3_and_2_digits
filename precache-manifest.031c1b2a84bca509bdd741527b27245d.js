@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a3b295edcd13a2669bc5",
+    "revision": "9900da2ed2d8ca250ed2",
     "url": "/urdu_addition_counting_object_3_and_2_digits/static/css/main.21d85565.chunk.css"
   },
   {
-    "revision": "a3b295edcd13a2669bc5",
-    "url": "/urdu_addition_counting_object_3_and_2_digits/static/js/main.bca636fa.chunk.js"
+    "revision": "9900da2ed2d8ca250ed2",
+    "url": "/urdu_addition_counting_object_3_and_2_digits/static/js/main.29e7a3e3.chunk.js"
   },
   {
     "revision": "e120f99eb3a35347ed75",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/urdu_addition_counting_object_3_and_2_digits/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "235e274ff34265d69ad9ea6f99ea6e7d",
+    "revision": "e8423a67bd93c4f2a25c4537f16285f5",
     "url": "/urdu_addition_counting_object_3_and_2_digits/index.html"
   }
 ];
